@@ -1,0 +1,14 @@
+The simple dataset for a chat bot (seq2seq).
+It is based on a website with simple dialogues for beginners.
+First column is questions, second is answers.
+It consists of two columns: question \t answer \n . Suitable for simple chatbots. Contains 3725 items
+
+EX : 
+hi, how are you doing?	i'm fine. how about yourself?
+i'm fine. how about yourself?	i'm pretty good. thanks for asking.
+i'm pretty good. thanks for asking.	no problem. so how have you been?
+no problem. so how have you been?	i've been great. what about you?
+
+
+Dataset Link: https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot
+credits: GRAF STOR 
